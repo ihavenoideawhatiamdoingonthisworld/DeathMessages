@@ -33,4 +33,4 @@ commands:
     aliases: [ dm ]
   deathmessagestoggle:
     description: Alias for /dm toggle in one command
-    aliases: [ dmt, dmtoggle ]
+    aliases: [ dmt, dmtoggle, toggledeathmsgs]
